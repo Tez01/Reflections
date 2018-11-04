@@ -1,0 +1,2 @@
+"What happens when you initialize a repository? Why do you need to do it?"
+A new repository is created or a .git file is created which is a means to keep track of all the commits in the repository.It is needed otherwise git will not recognize the directory as a git repository and no features of git can happen.
