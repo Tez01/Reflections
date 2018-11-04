@@ -1,0 +1,13 @@
+"What did you learn?"
+I learnt that it is very easy to find difference between pair of programs using diff command very easily as it is very tedious
+to find differences by looking at them.
+"How could saving previous version of files makes you an efficient programmer?"
+It is very helpful as we can find previous codes and by compare it with the new ones,we learn from our mistakes.Also it helps to show the things to other which makes them understand the idae more comprehensively.
+"What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?"
+It is better to choose manually as there isno sense in setting up a fixed interval after which commit can be made auatomically.Changes may be small or big enough.Moreover ,the point of committing is to be able to see and understanding the changes well.So the power to commit should be in the hands of the developer not an automated program.Also, humans are better than machine in recognizing the correct patterns for making a commit.
+"How can you use the commands git log and git diff to view the history of files?"
+git log helps to find the history of our commits when we are in the directory of the cloned repository.For cloning "git clone 'piku'" command is used.git diff is used to find the difference between the various commits.Remember in git log the commit are shown from bottom to top.Copy the commit ids that you want to compare and use "git log 'piku1' 'piku2'" to find the difference.Also, the command "git config --global color.ui auto" is used to color code the differences globally(ie everytime unless changed).In diff + refers to new changes and - is used for deleted lines of code.
+"How might using version control make you more confident to make changes that could break something?"
+Well,version control helps a lot.It would really not be possible to debug the code without the previous versions or the commit concept as it would have been one single file.With "git checkout" it becomes easy to narrow down the area where the bug might have been introduced.In addition, with "git checkout" it is so easy to move from one version to other to run it instantly and find changes.Also diff helps a lot and saves time in finding the actual bug wich might have happened.
+"Now that you have your workspace set up, what do you want to try using Git for?"
+I will make deep learning,ML models.
