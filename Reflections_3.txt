@@ -1,2 +1,2 @@
 "When would you want to use a remote repository rather than keeping all your work local?"
-When there is a possibilty that I won't be able to access my own laptop and I have to use a cloud for storing files.Also when I want other people to collaboarate and review my work.
+When there is a possibilty that I won't be able to access my own laptop and I have to use a cloud for storing files.Also when I want other people to collaboarate and review my work. 
