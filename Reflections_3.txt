@@ -1,2 +1,4 @@
 "When would you want to use a remote repository rather than keeping all your work local?"
 When there is a possibilty that I won't be able to access my own laptop and I have to use a cloud for storing files.Also when I want other people to collaboarate and review my work. 
+"Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?"
+I should have control over when I want to commit.Also I may not want to commit as I might have introduced a bug and have to check my code.Also I may just be testing or have to discuss with others before commiting.
