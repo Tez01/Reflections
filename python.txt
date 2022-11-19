@@ -1,0 +1,1 @@
+Reversed(list): Returns a reversed_iterator object, not a list.
